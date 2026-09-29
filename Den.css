@@ -214,7 +214,7 @@ background: #HEX !important;
 color: #HEX !important;}
 
 .progress div {
-color: #222303 !important; }
+color: #031124 !important; }
 
 .progress {
 background:  #9babcc;
@@ -267,7 +267,7 @@ color: #ffffff !important;
 border: 1px solid #02367a !important;
 }
 #chatMessageList {
-background: #222303 !important;
+background: #031124 !important;
 }
 #btnChatSettings::before {
 content: "⚙" !important;
